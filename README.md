@@ -17,6 +17,6 @@ o ensino da Introdução ao CSS.
 
 #### ~ Preview ~ 
 \
-<img src="git-assets/login.png" />
+<img src="git-assets/Login.png" />
 \
-<img src="git-assets/dashboard.png" />
+<img src="git-assets/Dashboard.png" />
